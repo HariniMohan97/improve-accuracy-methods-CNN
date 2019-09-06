@@ -16,6 +16,6 @@ Assignment 6B -
 We need to rewrite the above network with layers having different types of convolution like seperable convolution (spation and depthwise),convolution with dilation,grouped convolution etc.
 
 Functional API method has been used to build the network in this respective jupyter notebook. 
-Space to depth concept has also been introduced here which helps in modifying the dimensions of our output channels which makes it easier to Concatenate. 
+ 
 
 Functionality of every cell and piece of code that's new has been explained in the notebook. 
